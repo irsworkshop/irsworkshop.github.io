@@ -339,8 +339,8 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../images/IRSKDD2020.png");
-    background-size       : auto;
+    background            : url("../images/IRSKDD2021.png");
+    background-size       : contain;
     padding               : 0;
     margin                : 0;
     height                : auto;
@@ -355,7 +355,7 @@ button:focus,
     }
 
 .jumbotron .content {
-    color             : #ffffff;
+    color             : #000000;
     position          : absolute;
     top               : 82%;
     left              : 0;
@@ -370,7 +370,7 @@ button:focus,
     }
 
 .jumbotron .content h1 {
-    color       : #ffffff;
+    color       : #000000;
     font-weight : bold;
     }
 
