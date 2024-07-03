@@ -232,8 +232,8 @@ button:focus,
 .navbar {
     border-radius  : 0;
     padding        : 30px 0;
-/*    background     : transparent;*/
-    background     : #fff1db;
+    background     : transparent;
+/*    background     : #fff1db;*/
     margin         : 0;
     font-size      : 15px;
     text-transform : uppercase;
@@ -340,13 +340,13 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../images/banner_v4.jpg");
+    background            : url("../images/banner_cikm.jpg");
 /*    background            : transparent;*/
     background-size       : contain;
     padding               : 0;
     margin                : 0;
     height                : auto;
-    min-height            : 500px;
+    min-height            : 600px;
     max-width             : 100%;
     vertical-align        : middle;
     position              : relative;
@@ -373,6 +373,7 @@ button:focus,
 
 .jumbotron .content h1 {
     color       : #000000;
+/*    font-size     : 40px;*/
     font-weight : bold;
     }
 
